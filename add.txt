@@ -1,0 +1,1 @@
+This file is added into features branch to understand the VCS.
