@@ -1,1 +1,1 @@
-This file is only be deleted from git repo not locally.
+This a a delte local file and presented both places.
